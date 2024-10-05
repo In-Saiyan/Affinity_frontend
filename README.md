@@ -1,18 +1,34 @@
-# Affinity Frontend
+<div align="center" >
+    
+![img](./src/assets/readme_banner.png)
 
+</div>
 Welcome to the Affinity Frontend repository! This project is part of the broader Affinity platform, focusing exclusively on frontend development. Affinity is a web application designed to connect individuals with similar intellectual levels. The platform utilizes an AI-powered chatbot for matchmaking and includes various interactive games, such as coding rounds, to match users based on their skillset. Once matched, users can engage in meaningful conversations with one another, fostering intellectual connections.
+
+<div align="center">
+    
+ ![homepage.gif](./src/assets/homepage.gif)
+</div>
+
 
 If you're interested in working on the backend of our project, please head over to the following repository [Affinity Backend](https://github.com/Sidharth-Singh10/Affinity-backend).
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
+
+# Navigation
+<div align="center">
+
+<br>
+  <a href="#introduction"><kbd> <br> Introduction <br> </kbd></a>&ensp;&ensp;
+  <a href="#features"><kbd> <br> Features <br> </kbd></a>&ensp;&ensp;
+  <a href="#technologies-used"><kbd> <br> Technologies Used <br> </kbd></a>&ensp;&ensp;
+  <a href="#installation"><kbd> <br> Installation <br> </kbd></a>&ensp;&ensp;
+  <a href="#usage"><kbd> <br> Usage <br> </kbd></a>&ensp;&ensp;
+  <a href="#contributing"><kbd> <br> Contributing <br> </kbd></a>&ensp;&ensp;
+  <a href="#contact"><kbd> <br> Contact <br> </kbd></a>
+
+<br><br> </div>
+
 
 ## Introduction
 
@@ -80,7 +96,10 @@ This will start the development server and you can view the application in your 
   - **index.js**: The entry point of the application.
 
 
-> **Note**: Users are informed that they have the complete right to manipulate the sample data present in *sampleData.js*, as it is hardcoded. Any changes made will affect only your own codebase and will not impact others.
+
+> [!Important]
+>  Users are informed that they have the complete right to manipulate the sample data present in *sampleData.js*, as it is hardcoded. Any changes made will affect only your own codebase and will not impact others.
+
 
 ### Routing
 
@@ -140,7 +159,7 @@ This will start the development server and you can view the application in your 
 
 ## Contributing
 
-We welcome contributions from the community! Please read our [`CONTRIBUTING.md`](command:_github.copilot.openRelativePath?%5B%7B%22scheme%22%3A%22file%22%2C%22authority%22%3A%22%22%2C%22path%22%3A%22%2Fc%3A%2FUsers%2FLenovo%2FOneDrive%2FDesktop%2FPRACTISE%2Fdfsdfs%2FAffinity_frontend%2FCONTRIBUTING.md%22%2C%22query%22%3A%22%22%2C%22fragment%22%3A%22%22%7D%2C%22e29a7936-4f33-4970-9e7f-3e2939a28627%22%5D "c:\Users\Lenovo\OneDrive\Desktop\PRACTISE\dfsdfs\Affinity_frontend\CONTRIBUTING.md") file for detailed guidelines on how to contribute to this project.
+We welcome contributions from the community! Please read our <span style="text-decoration: none;">[`CONTRIBUTING.md`](./CONTRIBUTING.md)</span> file for detailed guidelines on how to contribute to this project.
 
 ### Hacktoberfest and GSSoC 24
 
@@ -154,3 +173,6 @@ If you have any questions or need further assistance, feel free to open an issue
 Thank you for your contributions!
 
 
+
+
+[def]: "src/assets/readme_banner.png"
